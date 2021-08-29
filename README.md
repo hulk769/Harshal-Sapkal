@@ -6,7 +6,7 @@
 
 - 🔭 I'm a ORACLE CLOUD OPERATION certified guy
 - 🌱 I’m currently learning more about DevOps Tools
-- 👯 I’m looking to collaborate with other cloud enthusiasts to learn & grow together
+- 🤓  I’m looking to collaborate with other cloud enthusiasts to learn & grow together
 - 🥅 2021 Goals: Contribute more to Open Source projects which are related to cloud domain
 - ⚡️ Hobbies: Coin collection, Enjoying my lone time
 
