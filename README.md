@@ -2,7 +2,7 @@
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/HarshalSapkal6?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FAbhishek_7389&screen_name=HarshalSapkal6)
 
-## I am a 3rd year student persuing COMPUTER ENGINEERING degree from Mumbai University. I have grasp knowledge about computer networks along with some DEVOPS knowledge. I hold quite enough knowledge about FRONTEND (STILL IN LEARNING PROCESS), also I am very much passionate about Cloud technology ,Networking, Network security, Linux, Devops Python.
+## I am a final year student persuing COMPUTER ENGINEERING degree from Mumbai University. I have grasp knowledge about computer networks along with some DEVOPS knowledge. I hold quite enough knowledge about FRONTEND (STILL IN LEARNING PROCESS), also I am very much passionate about Cloud technology ,Networking, Network security, Linux, Devops Python.
 
 - 🔭 I'm a ORACLE CLOUD OPERATION certified guy
 - 🌱 I’m currently learning more about DevOps Tools
